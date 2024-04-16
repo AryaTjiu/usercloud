@@ -41,7 +41,7 @@ export default function FeaturesComponent () {
             </section>
             <section className="w-full px-10 md:px-20 xl:px-32 2xl:px-72 py-28 md:py-44 flex flex-col-reverse xl:flex-row items-start xl:items-center justify-between xl:space-x-28 text-white">
                 <div className="flex flex-col space-y-5 w-full xl:w-[50%]">
-                    <h2 className="text-5xl text-nice-sky-blue font-semibold">Lorem ipsum dolor</h2>
+                    <h2 className="text-4xl xl:text-5xl text-nice-sky-blue font-semibold">Lorem ipsum dolor</h2>
                     <p className="text-grey-100"> 
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia repudiandae animi eum consequuntur, praesentium voluptas voluptate asperiores aliquam, quaerat, molestiae ut! Eius excepturi.
                     </p>
@@ -62,7 +62,7 @@ export default function FeaturesComponent () {
                     <img src="/img/portofolio/userone/img2.png"/>
                 </Tilt>
                 <div className="flex flex-col space-y-5 w-full xl:w-[75%]">
-                    <h2 className="text-5xl text-nice-aquamarine font-semibold">Lorem ipsum dolor</h2>
+                    <h2 className="text-4xl xl:text-5xl text-nice-aquamarine font-semibold">Lorem ipsum dolor</h2>
                     <p className="text-grey-100"> 
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia repudiandae animi eum consequuntur, praesentium voluptas voluptate asperiores aliquam, quaerat, molestiae ut! Eius excepturi.
                     </p>
@@ -77,7 +77,7 @@ export default function FeaturesComponent () {
             </section>
             <section className="w-full px-10 md:px-20 xl:px-32 2xl:px-72 py-28 md:py-44 flex flex-col-reverse xl:flex-row items-start xl:items-center justify-between xl:space-x-28 text-white">
                 <div className="flex flex-col space-y-5 w-full xl:w-[75%]">
-                    <h2 className="text-5xl text-[#1bd3dc] font-semibold">Lorem ipsum dolor</h2>
+                    <h2 className="text-4xl xl:text-5xl text-[#1bd3dc] font-semibold">Lorem ipsum dolor</h2>
                     <p className="text-grey-100"> 
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia repudiandae animi eum consequuntur, praesentium voluptas voluptate asperiores aliquam, quaerat, molestiae ut! Eius excepturi.
                     </p>
@@ -98,7 +98,7 @@ export default function FeaturesComponent () {
                     <img src="/img/portofolio/userone/img4.png"/>
                 </Tilt>
                 <div className="flex flex-col space-y-5 w-full xl:w-[75%]">
-                    <h2 className="text-5xl text-[#30b9ff] font-semibold">Lorem ipsum dolor</h2>
+                    <h2 className="text-4xl xl:text-5xl text-[#30b9ff] font-semibold">Lorem ipsum dolor</h2>
                     <p className="text-grey-100"> 
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia repudiandae animi eum consequuntur, praesentium voluptas voluptate asperiores aliquam, quaerat, molestiae ut! Eius excepturi.
                     </p>
